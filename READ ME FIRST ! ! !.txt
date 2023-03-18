@@ -8,6 +8,8 @@
  ########:: ##:::: ##: ##::. ##: ##::. ##:'####: ##::. ##:. ######:::
 ........:::..:::::..::..::::..::..::::..::....::..::::..:::......::::
 
+Banking Management System is a simple database project in Python. It is done using MySQL connectivity mechanism in Python. The record of the customer can be added, updated, searched and deleted. It is a simple project made using Tkinter (GUI) of Python. This means, graphics components are added. 
+
 	  BANK MANAGEMENT SYSTEM
 *****************************************
   *********** LOGIN DETAILS ***********
